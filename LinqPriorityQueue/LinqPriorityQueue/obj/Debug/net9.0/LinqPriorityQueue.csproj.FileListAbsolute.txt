@@ -1,0 +1,15 @@
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/bin/Debug/net9.0/LinqPriorityQueue
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/bin/Debug/net9.0/LinqPriorityQueue.deps.json
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/bin/Debug/net9.0/LinqPriorityQueue.runtimeconfig.json
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/bin/Debug/net9.0/LinqPriorityQueue.dll
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/bin/Debug/net9.0/LinqPriorityQueue.pdb
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/LinqPriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/LinqPriorityQueue.AssemblyInfoInputs.cache
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/LinqPriorityQueue.AssemblyInfo.cs
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/LinqPriorityQueue.csproj.CoreCompileInputs.cache
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/LinqPriorityQueue.sourcelink.json
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/LinqPriorityQueue.dll
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/refint/LinqPriorityQueue.dll
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/LinqPriorityQueue.pdb
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/LinqPriorityQueue.genruntimeconfig.cache
+/Users/noamari/Desktop/mamas2/LinqPriorityQueue/LinqPriorityQueue/LinqPriorityQueue/obj/Debug/net9.0/ref/LinqPriorityQueue.dll
