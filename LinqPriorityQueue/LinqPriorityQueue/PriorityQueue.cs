@@ -1,11 +1,12 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace LinqPriorityQueue
 {
-    public class PriorityQueue
+    public class PriorityQueue : IEnumerable<string>
     {
         List<(int priority, string item)> values = new List<(int priority, string item)>();
 
@@ -27,6 +28,20 @@ namespace LinqPriorityQueue
             return first.item;
 
         }
+        public int Count()
+        {
+            return values.Count();
+        }
 
+        public IEnumerator<string> GetEnumerator()
+        {
+            return values.Select(x => x.item).GetEnumerator();
+            
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
     }
 }

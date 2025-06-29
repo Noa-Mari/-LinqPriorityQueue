@@ -9,10 +9,15 @@ priorityQueue.AddToQueue(2, "C");
 priorityQueue.AddToQueue(1, "A");
 priorityQueue.AddToQueue(1, "B");
 
+System.Console.WriteLine(priorityQueue.Count());
+//Console.WriteLine(priorityQueue.Extract());
+//Console.WriteLine(priorityQueue.Extract());
+//Console.WriteLine(priorityQueue.Extract());
 
-Console.WriteLine(priorityQueue.Extract());
-Console.WriteLine(priorityQueue.Extract());
-Console.WriteLine(priorityQueue.Extract());
+foreach (string item in priorityQueue)
+{
+    System.Console.WriteLine(item);
+}
 
 
 
